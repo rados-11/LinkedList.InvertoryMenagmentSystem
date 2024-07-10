@@ -1,0 +1,3 @@
+3,Hemijska olovka,39,1.09
+2,Gumica,88,0.49
+1,Grafitna olovka,66,0.39
